@@ -1,7 +1,8 @@
-RDP_Windows
+  RDP_Windows
 
 
-Server = https://ngrok.com/
+Server : https://ngrok.com/
+
 Code : https://github.com/esaanggitp/RDP_Windows/blob/main/RDP.txt
 
 Preview 
